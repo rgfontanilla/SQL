@@ -1,0 +1,21 @@
+client_id,client_name,Age,Gender,Country,Occupation
+1,John Smith,35,Male,United States,Engineer
+2,Jane Doe,28,Female,Canada,Teacher
+3,David Lee,42,Male,South Korea,Lawyer
+4,Emily Chen,31,Female,Taiwan,Doctor
+5,Juan Perez,27,Male,Mexico,Artist
+6,Maria Garcia,38,Female,Spain,Writer
+7,Tom Jones,49,Male,United Kingdom,Musician
+8,Sarah Kim,22,Female,South Korea,Student
+9,Alex Chen,45,Male,China,Entrepreneur
+10,Rachel Lee,29,Female,United States,Athlete
+11,Wei Liu,33,Male,China,Scientist
+12,Rosa Gomez,36,Female,Mexico,Chef
+13,Peter Chan,41,Male,Hong Kong,Businessman
+14,Eva Kim,26,Female,South Korea,Designer
+15,Ahmed Ali,30,Male,Egypt,Engineer
+16,Sophie Brown,37,Female,United Kingdom,Journalist
+17,Mohammad Hassan,44,Male,Iran,Doctor
+18,Carla Rodriguez,32,Female,Spain,Lawyer
+19,Kenichi Tanaka,25,Male,Japan,Student
+20,Anna Yang,39,Female,China,Salesperson
