@@ -1,1 +1,1 @@
-E
+This is my project showcasing an E-commerce database implementation with essential features including product inventory management, customer profiles, order tracking, and sales reporting. It demonstrates my proficiency in designing and developing a comprehensive database solution with these key functionalities
