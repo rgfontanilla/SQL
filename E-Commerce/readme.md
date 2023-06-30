@@ -1,1 +1,3 @@
 This is my project showcasing an E-commerce database implementation with essential features including product inventory management, customer profiles, order tracking, and sales reporting. It demonstrates my proficiency in designing and developing a comprehensive database solution with these key functionalities
+
+The Database Querybook features a range of basuc queries that showcase key functionalities like order tracking, customer profiling, and basic data retrieval. In the Database Setup and Insertion book, I provide step-by-step queries for setting up the database and inserting data, focusing on practical implementation rather than comprehensive explanations.
